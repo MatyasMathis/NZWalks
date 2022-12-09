@@ -1,6 +1,4 @@
-﻿using NZWalks.API.Models.Domain;
-
-namespace NZWalks.API.Models.DTOs
+﻿namespace NZWalks.API.Models.DTOs
 {
     public class Region
     {
